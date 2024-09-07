@@ -1,7 +1,7 @@
 /*
 Ahm:
 Alb:
-Ama:
+Ama: "what are some of your hobbies?"
 Cha:
 God:
 Gon:
