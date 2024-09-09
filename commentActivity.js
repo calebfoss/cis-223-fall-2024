@@ -13,6 +13,6 @@ Loe:
 Med:
 Mer:
 Mor:
-Pal:
+Pal: Who is your favorite musician/artist?
 Ram:
 */
