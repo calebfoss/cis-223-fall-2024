@@ -9,7 +9,7 @@ Hos:
 Ikh:
 Jim:
 Kim:
-Loe:
+Loe: What is your favorite food?
 Med:
 Mer:
 Mor:
