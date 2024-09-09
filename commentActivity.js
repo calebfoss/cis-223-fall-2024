@@ -4,7 +4,7 @@ Alb:
 Ama:
 Cha:
 God:
-Gon:
+Gon:do you like snakes?
 Hos:
 Ikh:
 Jim:
