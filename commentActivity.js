@@ -12,7 +12,7 @@ Kim:
 Loe:
 Med:
 Mer:
-Mor:
+Mor: What is your fourth favorite color?
 Pal:
 Ram:
 */
