@@ -7,7 +7,7 @@ God:
 Gon:
 Hos:
 Ikh:
-Jim:
+Jim: What are your goals after college?
 Kim:
 Loe:
 Med:
