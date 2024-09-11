@@ -10,7 +10,7 @@ Ikh:
 Jim:
 Kim:
 Loe:
-Med:
+Med: Favorite activity to pass the time?
 Mer:
 Mor:
 Pal:
