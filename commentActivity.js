@@ -2,7 +2,7 @@
 Ahm:
 Alb:
 Ama:
-Cha:
+Cha: Whats your favorite game?
 God:
 Gon:
 Hos:
