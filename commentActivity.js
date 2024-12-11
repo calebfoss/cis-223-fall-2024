@@ -5,7 +5,7 @@ Ama:
 Cha:
 God:
 Gon:
-Hos:
+Hos: What's your favorite food?
 Ikh:
 Jim:
 Kim:
